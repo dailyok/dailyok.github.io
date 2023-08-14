@@ -3,8 +3,8 @@ layout: post
 title: "Spots"
 author: "Paul Le"
 categories: Spots
-tags: [Spots,sample]
-image: Spots_thumb.jpeg
+tags: [Spot,sample]
+image: Spot_thumb.jpeg
 ---
 
 # Millennial

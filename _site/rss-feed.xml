@@ -7,7 +7,7 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Welcome to Millennial!</title>
+				<title>About DailyOK</title>
 				
 					<dc:creator>Paul Le</dc:creator>
 				
@@ -21,7 +21,7 @@
 			</item>
 		
 			<item>
-				<title>Getting Started</title>
+				<title>Spots</title>
 				
 					<dc:creator>Paul Le</dc:creator>
 				
@@ -35,7 +35,7 @@
 			</item>
 		
 			<item>
-				<title>Text Formatting</title>
+				<title>Travels</title>
 				
 					<dc:creator>Paul Le</dc:creator>
 				
@@ -49,7 +49,7 @@
 			</item>
 		
 			<item>
-				<title>Learning Resources</title>
+				<title>Insights</title>
 				
 					<dc:creator>Paul Le</dc:creator>
 				
@@ -63,7 +63,7 @@
 			</item>
 		
 			<item>
-				<title>About the Author</title>
+				<title>Photos</title>
 				
 					<dc:creator>Paul Le</dc:creator>
 				
