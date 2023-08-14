@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Spots"
+title: "서촌 프렌치/ 무목"
 author: "Hosie"
 categories: Spots
-tags: [Spot,sample]
-image: Spot_thumb.jpeg
+tags: [Spots,sample]
+image: Spots_thumb.jpeg
 ---
 
 # Millennial

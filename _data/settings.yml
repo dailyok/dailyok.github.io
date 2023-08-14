@@ -12,7 +12,8 @@ menu:
 - {name: 'Travel', url: 'Travel'}
 - {name: 'Insights', url: 'Insights'}
 - {name: 'Photos', url: 'Photos'}
-- {name: 'Contact', url: 'contact'}
+- {name: 'Contact', url: 'Contact'}
+- {name: 'Thanks to', url: 'Thanks to'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/learning-resources</loc>
+<loc>http://localhost:4000/learning-resources-copy</loc>
 <lastmod>2016-05-05T00:00:00+09:00</lastmod>
 </url>
 <url>
@@ -17,8 +17,15 @@
 <lastmod>2017-01-01T00:00:00+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/learning-resources</loc>
+<lastmod>2023-07-30T00:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about-the-author</loc>
 <lastmod>2023-08-14T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Thanks%20to</loc>
 </url>
 <url>
 <loc>http://localhost:4000/about</loc>
@@ -30,15 +37,18 @@
 <loc>http://localhost:4000/documentation</loc>
 </url>
 <url>
-<loc>http://localhost:4000/facts</loc>
+<loc>http://localhost:4000/Spots</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/resources</loc>
+<loc>http://localhost:4000/Travel</loc>
 </url>
 <url>
 <loc>http://localhost:4000/sample-posts</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
