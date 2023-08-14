@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "About DailyOK"
-author: "Paul Le"
+author: "Hosie"
 categories: About
 tags: [documentation,sample]
 image: About_thumb.jpeg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+주호야 이거 엄청 신기한데 한글자라도 틀리면 뜻대로 안되네? 들여다볼수록 오빠같다ㅋㅋㅋㅋㅋㅋㅋ 왜 이걸 택했는지 조금 알 것 같기도...
 
-## Getting Started
+## 여기다 제목을 쓰라는건가!
 
 [Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
