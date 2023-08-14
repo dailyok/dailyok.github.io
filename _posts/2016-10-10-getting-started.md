@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spots"
-author: "Paul Le"
+author: "Hosie"
 categories: Spots
 tags: [Spot,sample]
 image: Spot_thumb.jpeg

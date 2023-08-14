@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Travels"
-author: "Paul Le"
-categories: Travels
-tags: [sample]
-image: Travel_thumb.jpeg
+title: "Travel"
+author: "Hosie"
+categories: Travel
+tags: [Travel]
+image: Travel2_thumb.jpeg
 ---
 
 # Markdown Support

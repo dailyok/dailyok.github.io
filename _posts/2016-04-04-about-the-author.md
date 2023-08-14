@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photos"
-author: "Paul Le"
+author: "Hosie"
 categories: Photos
 tags: [Photos]
 image: Photos_thumb.jpeg

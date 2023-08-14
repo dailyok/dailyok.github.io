@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insights"
-author: "Paul Le"
+author: "Hosie"
 categories: Insights
 tags: [Insights,sample]
 image: Insights_thumb.jpeg
