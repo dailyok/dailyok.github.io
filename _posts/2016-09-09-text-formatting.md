@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Travels"
 author: "Paul Le"
-categories: sample
+categories: Travels
 tags: [sample]
-image: arctic-1.jpg
+image: Travel_thumb.jpeg
 ---
 
 # Markdown Support

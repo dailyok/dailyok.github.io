@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Spots"
 author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
-image: city-1.jpg
+categories: Spots
+tags: [Spots,sample]
+image: Spots_thumb.jpeg
 ---
 
 # Millennial

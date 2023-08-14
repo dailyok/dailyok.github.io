@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Tastes',  url: 'facts'}
+- {name: 'About',  url: 'facts'}
 - {name: 'Spots', url: 'resources'}
 - {name: 'Travel',       url: 'sample-posts'}
 - {name: 'Insights',      url: 'documentation'}
@@ -18,7 +18,7 @@ menu:
 social:
 # - {icon: 'twitter', link:    'https://twitter.com/paululele'}
 - {icon: 'blog', link:   'https://blog.naver.com/dooogieq'}
-- {icon: 'instagram', link:  'https://instagram.com/@siectrabi'}
+- {icon: 'instagram', link:  'https://instagram.com/@ru5kay'}
 - {icon: 'envelope', link:   'mailto:queen3031@naver.com'}
 # - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
