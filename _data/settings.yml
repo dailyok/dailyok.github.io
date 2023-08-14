@@ -7,12 +7,12 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'About',  url: 'About'}
+- {name: 'About', url: 'About'}
 - {name: 'Spots', url: 'Spots'}
-- {name: 'Travel',       url: 'Travel'}
-- {name: 'Insights',      url: 'Insights'}
-- {name: 'Photos',              url: 'Photos'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Travel', url: 'Travel'}
+- {name: 'Insights', url: 'Insights'}
+- {name: 'Photos', url: 'Photos'}
+- {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -28,8 +28,8 @@ pagination:
   next_page: 'Next'
   previous_page: 'Prev'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'SHARE'
 
-related_posts: 'You may also enjoy...'
+related_posts: '유사한 컨텐츠'
 
 post_date_prefix: 'Written on'
