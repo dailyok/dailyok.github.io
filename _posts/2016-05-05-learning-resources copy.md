@@ -3,7 +3,7 @@ layout: post
 title: "Insights"
 author: "Hosie"
 categories: Insights
-tags: [Insights,sample]
+tags: [Insights]
 image: Insights_thumb.jpeg
 ---
 
